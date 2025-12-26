@@ -1,0 +1,21 @@
+{
+  "name": "unit-testing-examples",
+  "version": "1.0.0",
+  "description": "unit testing examples",
+  "main": "index.js",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-jest": "^23.0.0-alpha.0",
+    "babel-preset-airbnb": "^2.4.0",
+    "jest": "^23.0.0-alpha.0"
+  },
+  "scripts": {
+    "test": "jest --ci",
+    "test:watch": "jest --watch"
+  },
+  "author": "Sabareeswaran I",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^6.6.0"
+  }
+}
